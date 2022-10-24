@@ -1,0 +1,4 @@
+1. touch quest5.txt
+2. open quest5.txt
+3. cd door_management_files/door_configuration/
+4. nano door_1.conf
